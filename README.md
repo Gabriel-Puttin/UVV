@@ -9,88 +9,185 @@ Cada pasta corresponde a uma disciplina cursada ao longo do curso.
 Dentro de cada pasta, estão organizadas as atividades, trabalhos, projetos e exercícios relacionados.
 
 📦 faculdade-codigos
+
  ┣ 📂 nome-da-materia-1
+ 
  ┃ ┣ 📜 atividade-1
+ 
  ┃ ┣ 📜 atividade-2
+
  ┃ ┗ 📜 projeto-final
+ 
  ┣ 📂 nome-da-materia-2
+ 
  ┃ ┣ 📜 lista-exercicios
+ 
  ┃ ┗ 📜 trabalho-pratico
+ 
  ┗ 📜 README.md
+
+
+ 
 🧠 Disciplinas
-📌 Nome da Matéria 1
+***
+1° PERÍODO
 
-Descrição:
-Breve descrição da disciplina e seus principais objetivos.
+📌 Construção de Software para Web
 
-Conteúdos abordados:
+📌 Design e Desenvolvimento de Banco de Dados I
 
-Tópico 1
+📌 Experiência e Interface com o Usuário
 
-Tópico 2
+📌 Fundamentos de Tecnologia da Computação
 
-Tópico 3
+📌 Lógica para Computação
 
-Atividades realizadas:
+📌 Textos Científicos: Aspectos Metodológicos e Linguísticos
 
-✔️ Atividade 1 – Descrição breve
+***
+2° PERÍODO
 
-✔️ Atividade 2 – Descrição breve
+📌 Álgebra para Computação
 
-✔️ Projeto Final – Descrição breve
+📌 Engenharia de Software I
 
-📌 Nome da Matéria 2
+📌 Engenharia Transformacional
 
-Descrição:
-Breve explicação sobre a disciplina.
+📌 Laboratório de Programação
 
-Conteúdos abordados:
+📌 Marketing Digital
 
-Tópico A
+***
+3° PERÍODO
 
-Tópico B
+📌 Design e Desenvolvimento de Banco de Dados II
 
-Tópico C
+📌 Engenharia de Software II
 
-Atividades realizadas:
+📌 Estatística Básica
 
-✔️ Lista de Exercícios
+📌 Inovação e Design Thinking
 
-✔️ Trabalho Prático
+📌 Programação Orientada a Objetos I
 
-✔️ Projeto em grupo
+***
+4° PERÍODO
 
-📌 Nome da Matéria 3
+📌 Arquitetura e Organização de Computadores
 
-Descrição:
-Resumo do que foi estudado.
+📌 Aspectos Legais da Tecnologia da Informação
 
-Conteúdos abordados:
+📌 Estrutura de Dados
 
-Tema 1
+📌 Programação Orientada a Objetos II
 
-Tema 2
+📌 Qualidade de Software
 
-Atividades realizadas:
+📌 Sistemas Operacionais
 
-✔️ Exercícios
+***
+5° PERÍODO
 
-✔️ Implementações
+📌 Desenvolvimento Pessoal e Profissional
 
-✔️ Projeto Final
+📌 Estatística para Ciência de Dados
+
+📌 Networking Fundamentals
+
+📌 Processamento de Grandes Volumes de Dados
+
+📌 Programação Avançada para WEB
+
+📌 Teste de Software
+
+***
+6° PERÍODO
+
+📌 Data Science
+
+📌 Desenvolvimento Mobile
+
+📌 Gestão de Processos
+
+📌 Gestão de Projetos
+
+📌 Inteligência Artificial
+
+📌 Inteligência de Mercado
+
+***
+7° PERÍODO
+
+📌 Arquitetura Corporativa e Tecnologia da Informação
+
+📌 Empreendedorismo e Negócios
+
+📌 Governança em Tecnologia da Informação
+
+📌 Laboratório de Engenharia de Software
+
+📌 Projeto Final de Curso em Sistemas de Informação I
+
+📌 Sistemas de Apoio à Tomada de Decisão
+
+***
+8° PERÍODO
+
+📌 Atividades Complementares em Sistemas de Informação
+
+📌 Cloud Computing
+
+📌 Cybersecurity
+
+📌 Estágio Supervisionado em Sistemas de Informação
+
+📌 Optativa (1)
+
+📌 Projeto Final de Curso em Sistemas de Informação II
+
+***
 
 🛠️ Tecnologias Utilizadas
 
 Ao longo do curso, foram utilizadas diferentes linguagens e ferramentas, como:
 
-💻 Linguagem X
+💻 Linguagens:
 
-💻 Linguagem Y
+JavaScript
 
-🗄️ Banco de Dados Z
+Python
 
-🔧 Ferramenta W
+SQL
 
+Java
+
+C# (.NET)
+
+🗄️ Banco de Dados:
+
+MySQL
+
+Oracle
+
+Redis
+
+🔧 Ferramentas:
+
+Alice
+
+GreenFoot
+
+Workbench
+
+Figma
+
+Astah
+
+VsCode
+
+Apache NetBeans
+
+***
 🚀 Objetivo
 
 Este repositório tem como finalidade:
