@@ -1,4 +1,3 @@
-@@ -1,108 +1,205 @@
 🎓 Repositório de Códigos da Faculdade
 
 Este repositório reúne todos os códigos, projetos e atividades desenvolvidos durante minha graduação.
@@ -27,10 +26,8 @@ Dentro de cada pasta, estão organizadas as atividades, trabalhos, projetos e ex
  
  ┗ 📜 README.md
 
-
- 
 🧠 Disciplinas
-📌 Nome da Matéria 1
+
 ***
 1° PERÍODO
 
@@ -72,95 +69,66 @@ Dentro de cada pasta, estão organizadas as atividades, trabalhos, projetos e ex
 
 📌 Programação Orientada a Objetos I
 
-Descrição:
-Breve descrição da disciplina e seus principais objetivos.
 ***
 4° PERÍODO
 
-Conteúdos abordados:
 📌 Arquitetura e Organização de Computadores
 
-Tópico 1
 📌 Aspectos Legais da Tecnologia da Informação
 
-Tópico 2
 📌 Estrutura de Dados
 
-Tópico 3
 📌 Programação Orientada a Objetos II
 
-Atividades realizadas:
 📌 Qualidade de Software
 
-✔️ Atividade 1 – Descrição breve
 📌 Sistemas Operacionais
 
-✔️ Atividade 2 – Descrição breve
 ***
 5° PERÍODO
 
-✔️ Projeto Final – Descrição breve
 📌 Desenvolvimento Pessoal e Profissional
 
 📌 Nome da Matéria 2
+
 📌 Estatística para Ciência de Dados
 
-Descrição:
-Breve explicação sobre a disciplina.
 📌 Networking Fundamentals
 
-Conteúdos abordados:
 📌 Processamento de Grandes Volumes de Dados
 
-Tópico A
 📌 Programação Avançada para WEB
 
-Tópico B
 📌 Teste de Software
 
-Tópico C
 ***
 6° PERÍODO
 
-Atividades realizadas:
 📌 Data Science
 
-✔️ Lista de Exercícios
 📌 Desenvolvimento Mobile
 
-✔️ Trabalho Prático
 📌 Gestão de Processos
 
-✔️ Projeto em grupo
 📌 Gestão de Projetos
 
-📌 Nome da Matéria 3
 📌 Inteligência Artificial
 
-Descrição:
-Resumo do que foi estudado.
 📌 Inteligência de Mercado
 
-Conteúdos abordados:
 ***
 7° PERÍODO
 
-Tema 1
 📌 Arquitetura Corporativa e Tecnologia da Informação
 
-Tema 2
 📌 Empreendedorismo e Negócios
 
-Atividades realizadas:
 📌 Governança em Tecnologia da Informação
 
-✔️ Exercícios
 📌 Laboratório de Engenharia de Software
 
-✔️ Implementações
 📌 Projeto Final de Curso em Sistemas de Informação I
 
-✔️ Projeto Final
 📌 Sistemas de Apoio à Tomada de Decisão
 
 ***
@@ -184,7 +152,6 @@ Atividades realizadas:
 
 Ao longo do curso, foram utilizadas diferentes linguagens e ferramentas, como:
 
-💻 Linguagem X
 💻 Linguagens:
 
 JavaScript
@@ -215,13 +182,10 @@ Workbench
 
 Figma
 
-💻 Linguagem Y
 Astah
 
-🗄️ Banco de Dados Z
 VsCode
 
-🔧 Ferramenta W
 Apache NetBeans
 
 ***
@@ -240,3 +204,4 @@ Facilitar revisões futuras
 📌 Observações
 
 Alguns códigos podem conter versões iniciais de aprendizado e não necessariamente representam as melhores práticas atuais.
+
