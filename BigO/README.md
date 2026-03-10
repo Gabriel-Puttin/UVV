@@ -14,5 +14,5 @@ pip install -r .\requirements.txt
 ```
 4. RODE O ARQUIVO eda.py
 ```
-py eda.py
+py main.py
 ```
