@@ -10,7 +10,7 @@ py make_env.py
 ```
 3. Ative o ambiente virtual
 ```
-pip install -r requirements.txt
+\.venv\Scripts\Activate.ps1
 
 ```
 4. Instale as depedências
