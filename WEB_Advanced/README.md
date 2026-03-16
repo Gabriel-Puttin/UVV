@@ -18,3 +18,8 @@ py make_env.py
 pip install -e .
 
 ```
+5. Rode a aplicação
+```
+flask run
+
+```
