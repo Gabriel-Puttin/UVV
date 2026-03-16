@@ -8,8 +8,13 @@ python -m venv .venv
 ```
 py make_env.py
 ```
-3. Instale as depedências
+3. Ative o ambiente virtual
 ```
 pip install -r requirements.txt
+
+```
+4. Instale as depedências
+```
+pip install -e .
 
 ```
